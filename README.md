@@ -6,9 +6,6 @@
         * [Run locally](#run-locally)
     * [Architecture](#architecture)
 
-# Beginner DE Project - Batch Edition
-
-Code for blog at [Data Engineering Project for Beginners](https://www.startdataengineering.com/post/data-engineering-project-for-beginners-batch-edition/).
 
 ## Run Data Pipeline
 
