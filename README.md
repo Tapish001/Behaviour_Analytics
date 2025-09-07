@@ -67,5 +67,4 @@ The `user_analytics_dag` DAG in the [Airflow UI](http://localhost:8080) will loo
 
 On completion, you can see the dashboard html rendered at[./dags/scripts/dashboard/dashboard.html](./dags/scripts/dashboard/dashboard.html).
 
-Read **[this post](https://www.startdataengineering.com/post/data-engineering-projects-with-free-template/)**, for information on setting up CI/CD, IAC(terraform), "make" commands and automated testing.
 
